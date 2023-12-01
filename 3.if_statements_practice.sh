@@ -6,3 +6,4 @@ elif [ -d "$file" ]; then
 else
     echo "$file does not exist."
 fi
+ 
